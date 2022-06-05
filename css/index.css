@@ -562,9 +562,7 @@ fill:#AFB1B8; ;
 .client-link:focus{
     color:var(--buttons-color);
     fill:  currentColor;
-    background-color:#fff;
-      border-radius: 4px;
-     border: 1px solid var(--buttons-color);
+     border-color: var(--buttons-color);
 }
 .client-item:hover,
 .client-item:focus{
